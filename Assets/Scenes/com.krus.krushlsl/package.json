@@ -1,0 +1,23 @@
+{
+  "name": "com.krus.krushlsl",
+  "version": "1.0.0",
+  "description": "Krus HLSL Library",
+  "displayName": "Krus HLSL Library",
+  "unity": "2021.3",
+  "author": {
+    "name": "SelfishKrus",
+    "email": "selfishkrus@qq.com",
+    "url": ""
+  },
+  "changelogUrl": "",
+  "dependencies": {},
+  "documentationUrl": "",
+  "hideInEditor": false,
+  "keywords": [
+    "KrusHLSL"
+  ],
+  "license": "",
+  "licensesUrl": "",
+  "samples": [],
+  "unityRelease": "16f1"
+}
